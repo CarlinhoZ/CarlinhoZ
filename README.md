@@ -25,6 +25,6 @@
 </div>
 <p align="center">
   <a href="https://www.youtube.com/shorts/B1OocGqfIUQ">
-    <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/mambo.gif" alt="mambo" height=25%>
+    <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/mambo.gif" alt="mambo" width=25%>
   </a>
 </p>
