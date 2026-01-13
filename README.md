@@ -17,7 +17,6 @@
   • 🔒 Pentest
   • 🔒 Vulnerability Analysis
   • 🔒 Reverse Engineering
-  
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🇯🇵 Watch some anime
