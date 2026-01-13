@@ -1,28 +1,6 @@
-<div align="center">
-<img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" width="220" align="right" />
+<p align="center">
+    <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" alt="Banner" width="50%">
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=9D00FF&multiline=true&width=435&lines=Howdy!+I'm+Carl;A+brazilian+tech+dude+who+loves+cybersec" alt="Typing SVG" />
-  
-  <br>
-  
-  <pre>
-  <b>Learning</b>
-  • 🔒 Pentest
-  • 🔒 Vulnerability Analysis
-  • 🔒 Reverse Engineering
-  
-  <b>Hobbies</b>
-  • 🎮 Gaming Addict
-  • 🇯🇵 Watch some anime
-  • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding)
-  </pre>
-</div>
-
-<br clear="right">
-
-<img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/weirdcore.gif" height="40" />
-<br><br>
-
-</div>
-
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=300&color=9D00FF&multiline=true&repeat=false&width=435&lines=Howdy!+I'm+Carl;A+brazilian+tech+dude+who+loves+cybersec" alt="Typing SVG" /></a></a>!</h1>
