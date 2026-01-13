@@ -1,7 +1,7 @@
 # Olá 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif">
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif">
 </div>
 
 </br>
