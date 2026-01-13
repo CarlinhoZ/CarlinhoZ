@@ -23,3 +23,8 @@
   • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding)
     </pre>
 </div>
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+  </a>
+</p>
