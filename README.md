@@ -1,8 +1,7 @@
 <div align="center">
-
 <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" width="220" align="right" />
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=9D00FF&multiline=true&width=435&lines=Howdy!+I'm+Carl;A+brazilian+tech+dude+who+loves+cybersec" alt="Typing SVG" />
   
   <br>
