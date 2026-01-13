@@ -7,12 +7,12 @@
       <pre>
         Aprendendo
         • 🔒 Pentest
-        • 🔒 Análise de Vulnerabilidades
-        • 🔒 Engenharia Reversa
+        • 🔒 Vulnerability Analysis
+        • 🔒 REverse Engineering
         Hobbies 
         • 🎮 Gaming Addict
-        • 🇯🇵 Assistir alguns animes
-        • 👨🏻‍💻 Criar vários laboratórios para testes
+        • 🇯🇵 Watch some anime
+        • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding, just creating scenarios for practice)
       </pre>
     </td>
     <td align="right">
