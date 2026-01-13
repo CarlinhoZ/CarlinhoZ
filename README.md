@@ -29,4 +29,4 @@
 </br>
 </br>
 
-
+<img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/weirdcore.gif">
