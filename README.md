@@ -1,27 +1,31 @@
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="left" width="600">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=300&color=9D00FF&multiline=true&repeat=false&width=435&lines=Howdy!+I'm+Carl;A+brazilian+tech+dude+who+loves+cybersec" alt="Typing SVG" />
-      <pre>
-        Aprendendo
-        • 🔒 Pentest
-        • 🔒 Vulnerability Analysis
-        • 🔒 REverse Engineering
-        Hobbies 
-        • 🎮 Gaming Addict
-        • 🇯🇵 Watch some anime
-        • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding, just creating scenarios for practice)
-      </pre>
-    </td>
-    <td align="right">
-      <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" width="220" align="right" />
 
-<br>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=9D00FF&multiline=true&width=435&lines=Howdy!+I'm+Carl;A+brazilian+tech+dude+who+loves+cybersec" alt="Typing SVG" />
+  
+  <br>
+  
+  <pre>
+  <b>Aprendendo</b>
+  • 🔒 Pentest
+  • 🔒 Vulnerability Analysis
+  • 🔒 REverse Engineering
+  
+  <b>Hobbies</b>
+  • 🎮 Gaming Addict
+  • 🇯🇵 Watch some anime
+  • 👨🏻‍💻 Being a mad scientist in laboratories 
+    (just kidding, just creating scenarios for practice)
+  </pre>
+</div>
+
+<br clear="right">
+
 <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/weirdcore.gif" height="40" />
 <br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CarlinhoZ&show_icons=true&theme=tokyonight" />
+
 </div>
