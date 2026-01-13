@@ -10,16 +10,15 @@
   <br>
   
   <pre>
-  <b>Aprendendo</b>
+  <b>Learning</b>
   • 🔒 Pentest
   • 🔒 Vulnerability Analysis
-  • 🔒 REverse Engineering
+  • 🔒 Reverse Engineering
   
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🇯🇵 Watch some anime
-  • 👨🏻‍💻 Being a mad scientist in laboratories 
-    (just kidding, just creating scenarios for practice)
+  • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding, just creating scenarios for practice)
   </pre>
 </div>
 
