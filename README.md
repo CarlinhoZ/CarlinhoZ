@@ -9,3 +9,18 @@
     <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/frieren2.gif" alt="Banner" width="50%">
 </p>
 </div>
+
+<div>
+<h3>About ME</h3>
+    <pre>
+  <b>Learning</b>
+  • 🔒 Pentest
+  • 🔒 Vulnerability Analysis
+  • 🔒 Reverse Engineering
+  
+  <b>Hobbies</b>
+  • 🎮 Gaming Addict
+  • 🇯🇵 Watch some anime
+  • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding)
+    </pre>
+</div>
