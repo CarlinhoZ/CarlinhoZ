@@ -23,10 +23,10 @@
   • 👨🏻‍💻 Being a mad scientist in labs (just kidding)
     </pre>
 </div>
-<p align="left">
-    ### Stack & Tools
+
+ ### Stack & Tools
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</p>
+
 <p align="center">
     <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/mambo.gif" alt="mambo" width=5% height=5%>
 </p>
