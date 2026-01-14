@@ -24,7 +24,5 @@
     </pre>
 </div>
 <p align="center">
-  <a href="https://www.youtube.com/shorts/B1OocGqfIUQ">
     <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/mambo.gif" alt="mambo" width=5% height=5%>
-  </a>
 </p>
