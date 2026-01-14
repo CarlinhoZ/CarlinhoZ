@@ -25,7 +25,7 @@
 </div>
 
  ### Stack & Tools
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nobara](https://img.shields.io/badge/Nobara-5250A2?style=for-the-badge&logo=linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-43B02A?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nobara](https://img.shields.io/badge/Nobara-5250A2?style=for-the-badge&logo=linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-43B02A?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![THM](https://img.shields.io/badge/TryHackMe-0078D4?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 <p align="center">
     <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/mambo.gif" alt="mambo" width=5% height=5%>
