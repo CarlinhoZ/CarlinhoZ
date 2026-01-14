@@ -24,7 +24,7 @@
     </pre>
 </div>
 <p align="left">
-    <b>Stack & Tools</b>
+    ### Stack & Tools
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 <p align="center">
