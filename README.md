@@ -20,7 +20,7 @@
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🇯🇵 Watch some anime
-  • 👨🏻‍💻 Being a mad scientist in laboratories (just kidding)
+  • 👨🏻‍💻 Being a mad scientist in labs (just kidding)
     </pre>
 </div>
 <p align="center">
