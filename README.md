@@ -14,12 +14,12 @@
 <h3>About ME</h3>
     <pre>
   <b>Learning</b>
-  • 🔒 Pentest
-  • 🔒 Vulnerability Analysis
-  • 🔒 Reverse Engineering
+  • 🔒 Cloud Computing
+  • 🔒 Cloud Security
+  • 🔒 Identity & Access Management
   <b>Hobbies</b>
   • 🎮 Gaming Addict
-  • 🇯🇵 Watch some anime
+  • 🍙 Watch some anime
   • 👨🏻‍💻 Being a mad scientist in labs (just kidding)
     </pre>
 </div>
