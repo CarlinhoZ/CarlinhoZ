@@ -16,7 +16,8 @@
   <b>Learning</b>
   • 🔒 Cloud Computing
   • 🔒 Cloud Security
-  • 🔒 Identity & Access Management
+  • 🔒 Pentest
+  • 🔒 Ethical Hacking
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🍙 Watch some anime
