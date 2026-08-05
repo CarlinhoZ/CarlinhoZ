@@ -14,10 +14,9 @@
 <h3>About ME</h3>
     <pre>
   <b>Learning</b>
-  • 🔒 Cloud Computing
-  • 🔒 Cloud Security
   • 🔒 Pentest
   • 🔒 Ethical Hacking
+  • 🔒 eJPT
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🍙 Watch some anime
