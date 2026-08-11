@@ -16,7 +16,7 @@
   <b>Learning</b>
   • 🔒 Pentest
   • 🔒 Ethical Hacking
-  • 🔒 eJPT
+  • 🔒 DCPT
   <b>Hobbies</b>
   • 🎮 Gaming Addict
   • 🍙 Watch some anime
