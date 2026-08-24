@@ -6,7 +6,7 @@
 
 <div>
 <p align="center">
-    <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/digital_rain.gif" alt="Banner" width="50%">
+    <img src="https://github.com/CarlinhoZ/CarlinhoZ/blob/main/assets/Digital_rain.gif" alt="Banner" width="50%">
 </p>
 </div>
 
